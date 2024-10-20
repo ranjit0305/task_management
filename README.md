@@ -76,19 +76,21 @@ Add Tasks: Navigate to the homepage and use the form to add new tasks. Ensure th
 View Tasks: All tasks are displayed in a table with options to update the status or delete them.
 Update Tasks: Use the dropdown menu to update the status of tasks.
 Delete Tasks: Delete tasks by clicking the "Delete" button next to each task.
-Screenshots
-Task Management Interface
 
 Technologies Used
 Frontend: HTML, CSS
 Backend: PHP
 Database: MySQL
 Hosting: Deployed locally using XAMPP/WAMP
-Contributing
+
+Contributing:
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcomed.
 
 Fork the project
-Create your feature branch: git checkout -b my-new-feature
-Commit your changes: git commit -m 'Add some feature'
-Push to the branch: git push origin my-new-feature
-Open a pull request
+1.Create your feature branch: git checkout -b my-new-feature
+2.Commit your changes: git commit -m 'Add some feature'
+3.Push to the branch: git push origin my-new-feature
+4.Open a pull request
+5.Commit your changes: git commit -m 'Add some feature'
+6.Push to the branch: git push origin my-new-feature
+7.Open a pull request
